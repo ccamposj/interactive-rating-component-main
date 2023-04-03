@@ -101,7 +101,7 @@ main {
   overflow: hidden;
 }
 
-@media (min-width: 41em) {
+@media (min-width: 26em) {
   .card {
     max-width: 25rem;
   }
@@ -121,7 +121,7 @@ main {
 }
 .card__rating .card__header {
   color: hsl(0, 0%, 100%);
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-bottom: 1rem;
 }
 .card__rating .card__text {
@@ -162,7 +162,7 @@ main {
   border-radius: 2rem;
   transition: all 0.3s;
 }
-@media (min-width: 41em) {
+@media (min-width: 26em) {
   .card__rating .card__number:hover {
     color: hsl(0, 0%, 100%);
     background-color: hsl(25, 97%, 53%);
@@ -202,7 +202,7 @@ main {
 }
 .card__thanks .card__header {
   color: hsl(0, 0%, 100%);
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-bottom: 1rem;
 }
 .card__thanks .card__text {
